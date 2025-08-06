@@ -1,6 +1,6 @@
 # 🔐 AnteZone Official SHA-256 File Encrypter
 
-Welcome to **AnteZone's Official File Encryptor** — built for internal use to keep our data 🔒 safe, sound, and **100% private**.
+Welcome to **AnteZone's Official File Encryptor** built for internal use to keep our data 🔒 safe, sound, and **100% private**.
 
 This tool is used by our team to encrypt sensitive company files before sharing internally or storing in encrypted drives as backup. The main goal? **Prevent leaks.** If it’s internal, it stays internal.
 
